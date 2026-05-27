@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+<goods>
+   
+    <computer>Intel Core Duo</computer>
+    <monitor>Dell 23'</monitor>
+    <computer>Intel Core i5</computer>
+    <computer>Intel Core i7</computer>
+    <printer>LBP 2900</printer>
+    <monitor>HP 21'</monitor>
+    <printer>Canon 3211</printer>
+</goods>
